@@ -1,0 +1,8 @@
+{
+  "extends": ["tslint-no-return"],
+  "rulesDirectory": ["tslint-plugin-prettier"],
+  "rules": {
+    "ordered-imports": true,
+    "prettier": true
+  }
+}
